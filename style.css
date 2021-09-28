@@ -1,3 +1,14 @@
+.wrapper {
+    padding: 20px;
+    border: 2px solid greenyellow;
+    width: max-content;
+    margin-top: 20px;
+}
+
+.wrapper:first-child {
+    margin-top: 0;
+}
+
 .first,
 .second,
 .third,
