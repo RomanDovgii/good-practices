@@ -1,0 +1,35 @@
+.first,
+.second,
+.third,
+.fourth,
+.fifth,
+.sixth {
+    color: rgb(231, 231, 231);
+    display: block;
+    padding: 10px 20px;
+    max-width: 300px;
+}
+
+.first {
+    background-color: black;
+}
+
+.second {
+    background-color: gray;
+}
+
+.third {
+    background-color: tomato;
+}
+
+.fourth {
+    background-color: navy;
+}
+
+.fifth {
+    background-color: green;
+}
+
+.sixth {
+    background-color: darkgoldenrod;
+}
